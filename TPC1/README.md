@@ -1,5 +1,5 @@
 # TPC1: Análise de um dataset
-#### Autor: José Afonso Lopes Correia, A100610  
+#### Autor: Rodrigo Viana Ramos Casal Novo, A100534  
 
 ## Resumo:
 Neste TPC foi pedida a análise dum dado dataset (ficheiro CSV), sendo proibido utilizar o própio módulo CSV.  
